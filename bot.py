@@ -148,9 +148,9 @@ class Bot:
 
 def main():
     bot = Bot(
-        "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",
-        "00dec2ca93c68d01dee2c14bd4f02de7",
-        "EQ4z/6NpDd9+Y2cNhc8SRPz4EybCHZQ/o+iu8eMBNrU="
+        "", #ghp
+        "", #gistID
+        ""  #32bit key received from controller
     )
 
 if __name__== "__main__":
