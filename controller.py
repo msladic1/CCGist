@@ -299,9 +299,9 @@ class Controller:
 
 def main():
     controller = Controller(
-        "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",
-        "00dec2ca93c68d01dee2c14bd4f02de7",
-        "10cnDkVe4/M48JdwD2GPqEVSry7xyHOW17sgZ120wEw="
+        "", #ghp
+        "", #gistID
+        ""  #32bit key
     )
 
 if __name__== "__main__":
